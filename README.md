@@ -14,6 +14,9 @@ English follows Japanese.
 ## ライセンス
 このプロジェクトはMITライセンスの下で公開されています。
 
+## 日本語解説
+https://qiita.com/youiida/items/4b10fd878a6bf9876af3
+
 # Optimization-of-the-Curve-of-Quickest-Descent-with-Friction-and-Air-Resistance
 This repository explores the optimization of the curve of quickest descent under conditions of friction and air resistance. The approach leverages Python and Bayesian optimization to find the optimal path.
 ## Overview
